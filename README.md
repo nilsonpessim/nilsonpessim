@@ -8,6 +8,3 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nilsonpessim) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/techlabs94) 
 
----
-[![](https://visitcount.itsvg.in/api?id=nilsonpessim&icon=9&color=0)](https://visitcount.itsvg.in)
-
