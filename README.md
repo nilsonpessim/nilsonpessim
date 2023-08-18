@@ -1,5 +1,6 @@
 ## 💫 About Me:
-* Network Manager at CES Internet Service Provider
+* Network administrator and developer at C&S Internet Service Provider
+* MikroTik Certified Consultant
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nilsonpessim) 
